@@ -129,6 +129,20 @@ Join the telegram [support chat 💬](https://t.me/joinchat/KByvmRe5wkR-8F_zz6Aj
 
 ---
 
+# 🏗 Scaffold-ETH
+
+> everything you need to build on Ethereum! 🚀
+
+🧪 Quickly experiment with Solidity using a frontend that adapts to your smart contract:
+
+![image](https://user-images.githubusercontent.com/2653167/124158108-c14ca380-da56-11eb-967e-69cde37ca8eb.png)
+
+---
+
+🎖 Scaffold-ETH 2 is the latest version of this developer experience, we recommend you fork: https://github.com/scaffold-eth/se-2
+
+---
+
 🙏 Please check out our [Gitcoin grant](https://gitcoin.co/grants/2851/scaffold-eth) too!
 
 ### Automated with Gitpod
